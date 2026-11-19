@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="scotland_blue">#005EB8</color>
+    <!-- Colour-coded roadwork delays & incidents -->
+    <color name="delay_long_bg">#FFCDD2</color>
+    <color name="delay_long_badge">#C62828</color>
+    <color name="delay_short_bg">#FFF9C4</color>
+    <color name="delay_short_badge">#F57F17</color>
+    <color name="incident_bg">#E3F2FD</color>
+    <color name="incident_badge">#1565C0</color>
+</resources>
